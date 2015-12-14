@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-comp-mathematics-maxima-general">
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-mathematics-maxima-generalTranslate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-mathematics-maxima-generalTranslate.ttl</po:ttlFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-comp-mathematics-maxima-general</po:availableAt>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2641</gmane:nParticipants>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-mathematics-maxima-generalMeta.owl</po:discorveryRDFFile>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49095</gmane:nMessages>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T05:12:20.442472</po:createdAt>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-comp-mathematics-maxima-general</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37363</gmane:nResponses>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-mathematics-maxima-generalMeta.ttl</po:discoveryTTLFile>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27417201</gmane:nCharacters>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.comp.mathematics.maxima.general</gmane:gmaneID>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.comp.mathematics.maxima.general</rdfs:comment>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T05:13:02.999550</po:triplifiedIn>
+  </rdf:Description>
+</rdf:RDF>

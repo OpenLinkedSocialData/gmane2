@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-comp-python-pygame">
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-python-pygameMeta.owl</po:discorveryRDFFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.comp.python.pygame</rdfs:comment>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T14:17:33.142909</po:triplifiedIn>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-comp-python-pygame</po:availableAt>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T14:17:10.471046</po:createdAt>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20883</gmane:nResponses>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-python-pygameTranslate.ttl</po:ttlFile>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12321246</gmane:nCharacters>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-python-pygameMeta.ttl</po:discoveryTTLFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-comp-python-pygame</rdfs:label>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-python-pygameTranslate.owl</po:rdfFile>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.comp.python.pygame</gmane:gmaneID>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1583</gmane:nParticipants>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25577</gmane:nMessages>
+  </rdf:Description>
+</rdf:RDF>
